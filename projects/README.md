@@ -13,7 +13,7 @@ This solution drives increased **user adoption** and accelerates **ecosystem gro
 
 ## Demo
 - Demo Video: [YouTube link]
-- Project Deck: [https://www.figma.com/deck/FBzbtHcR3vObWTfRqA0zWb/KEY-BOT?node-id=3-153&t=EcBINyV2aWKRLbvy-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1]
+- Project Deck: [[Figma link](https://www.figma.com/deck/FBzbtHcR3vObWTfRqA0zWb/KEY-BOT?node-id=3-153&t=EcBINyV2aWKRLbvy-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)]
 
 ## Team
 - Member A - Role
