@@ -12,7 +12,7 @@ This streamlined experience helps more users access and engage with the **HashKe
 - Other: [Any other relevant technologies]
 
 ## Demo
-- Demo Video: [YouTube link]
+- Demo Video: [[YouTube link](https://youtu.be/Xh2K_Ip3SFU)]
 - Project Deck: [[Figma link](https://www.figma.com/deck/FBzbtHcR3vObWTfRqA0zWb/KEY-BOT?node-id=3-153&t=EcBINyV2aWKRLbvy-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)]
 
 ## Team
