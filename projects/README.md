@@ -1,7 +1,7 @@
 # Project Name
 
 ## Overview
-[We built Key-Bot to solve the complexity and high barriers users face when interacting with HashKey Chain. By integrating wallet creation, asset bridging, trading, and portfolio management directly into Telegram, we simplified the onboarding process. As a result, Key-Bot significantly lowers entry barriers, driving increased user adoption and ecosystem growth on HashKey Chain.]
+[*Key-Bot* was developed to address the high barriers and complexity users face when interacting with *HashKey Chain*. By integrating wallet creation, asset bridging, trading, and portfolio management directly into Telegram, Key-Bot simplifies onboarding, significantly lowering entry barriers. This solution drives increased user adoption and accelerates ecosystem growth on HashKey Chain.]
 
 ## Tech Stack
 - Frontend: [List frontend technologies]
