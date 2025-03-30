@@ -1,7 +1,7 @@
 # Project Name
 
 ## Overview
-[Describe your project in 2-3 sentences - what it does and what problem it solves]
+[We built Key-Bot to solve the complexity and high barriers users face when interacting with HashKey Chain. By integrating wallet creation, asset bridging, trading, and portfolio management directly into Telegram, we simplified the onboarding process. As a result, Key-Bot significantly lowers entry barriers, driving increased user adoption and ecosystem growth on HashKey Chain.]
 
 ## Tech Stack
 - Frontend: [List frontend technologies]
